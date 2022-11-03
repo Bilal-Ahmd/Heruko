@@ -154,16 +154,16 @@ body {
                 border-radius: 5px;
                 padding-right: 10px;
                 font-size: 18px;
-                border: 1px solid #BDBDBD;
+                border: 1px solid white;
             }
 
             #wrapper #div2 li input[type="password"] {
-                width: 70%;
+                width: 65%;
                 height: 40px;
                 border-radius: 5px;
                 padding-left: 10px;
                 font-size: 18px;
-                border: 1px solid #BDBDBD;
+                border: 1px solid white;
             }
 
             #wrapper #div2 li select {
