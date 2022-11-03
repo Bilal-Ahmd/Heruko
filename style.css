@@ -152,14 +152,15 @@ body {
                 width: 70%;
                 height: 40px;
                 border-radius: 5px;
-                padding-left: 10px;
+                padding-right: 10px;
                 font-size: 18px;
                 border: 1px solid #BDBDBD;
             }
 
             #wrapper #div2 li input[type="password"] {
-                width: 70%;
+                width: 65%;
                 height: 40px;
+                margin-left: -31px;
                 border-radius: 5px;
                 padding-left: 10px;
                 font-size: 18px;
